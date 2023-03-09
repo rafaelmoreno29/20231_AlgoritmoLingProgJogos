@@ -1,0 +1,7 @@
+C:\Users\rafae\Documents\Aulas\Git\20231_AlgoritmoLingProgJogos\Aula3Ex8\Aula3Ex8\bin\Debug\Aula3Ex8.exe.config
+C:\Users\rafae\Documents\Aulas\Git\20231_AlgoritmoLingProgJogos\Aula3Ex8\Aula3Ex8\bin\Debug\Aula3Ex8.exe
+C:\Users\rafae\Documents\Aulas\Git\20231_AlgoritmoLingProgJogos\Aula3Ex8\Aula3Ex8\bin\Debug\Aula3Ex8.pdb
+C:\Users\rafae\Documents\Aulas\Git\20231_AlgoritmoLingProgJogos\Aula3Ex8\Aula3Ex8\obj\Debug\Aula3Ex8.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\Documents\Aulas\Git\20231_AlgoritmoLingProgJogos\Aula3Ex8\Aula3Ex8\obj\Debug\Aula3Ex8.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Aulas\Git\20231_AlgoritmoLingProgJogos\Aula3Ex8\Aula3Ex8\obj\Debug\Aula3Ex8.exe
+C:\Users\rafae\Documents\Aulas\Git\20231_AlgoritmoLingProgJogos\Aula3Ex8\Aula3Ex8\obj\Debug\Aula3Ex8.pdb
